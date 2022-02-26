@@ -1,0 +1,21 @@
+.prod {
+  padding: 50px 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.prod-heading {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+.prod-body {
+  margin-bottom: 35px;
+  font-size: 1.5em;
+}
+.prod-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
